@@ -193,7 +193,8 @@ section a {
 
 .btn-dark-outline:hover,
 .btn-light-outline:hover {
-  background-color: rgba(0, 0, 0, 0.06);
+  background-color: #fff;
+  color: #006241;
 }
 
 .btn-light-outline {
